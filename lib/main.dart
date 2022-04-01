@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_database_sqlite/Home.dart';
+import 'Home.dart';
 
 void main() {
   runApp(MyApp());
